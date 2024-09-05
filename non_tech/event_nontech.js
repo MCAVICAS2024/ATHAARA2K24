@@ -186,15 +186,6 @@ const rulesAndRegulations = {
             'Time limit: 10 minutes',
             'Judging based on posture and grace'
         ]
-    },
-    12:{
-        title: 'TECH WORDS - Rules and Regulations',
-        content: 'These are the rules for the Tech Words event.',
-        rules: [
-            'Team should consistof two members',
-            'Participants should be able to find the shuffled letters of the technical words and be able to explain about it',
-            'A total of 3 rounds will be held '
-        ]
     }
 };
 
@@ -210,8 +201,7 @@ const eventImages = {
     8: 'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293821/symposium/photography_cqans1.jpg',
     9: '../images/quiz.png',
     10:'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293797/symposium/fireless_cooking_faercs.jpg',
-    11:'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293822/symposium/yoga_axjksw.jpg',
-    12:'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293819/symposium/tech_words_nnvl0y.jpg'
+    11:'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293822/symposium/yoga_axjksw.jpg'
 
 };
 
