@@ -122,7 +122,15 @@ const rulesAndRegulations = {
             'Design a logo based on the provided brief',
             'Judged on creativity and relevance to the theme'
         ]
-    }
+    },
+     7: {
+        title: 'CODING CLUB - Rules and Regulations',
+        rules: [
+            'Individual participation',
+            'Design a logo based on the provided brief',
+            'Judged on creativity and relevance to the theme'
+        ]
+    },
 }; 
 
 // Add images for each event
@@ -133,6 +141,8 @@ const eventImages = {
     4: 'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293815/symposium/paper_presentation_eugql9.jpg',
     5: 'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293790/symposium/hardware_fdbsur.jpg',
     6: '../images/logo.jpeg',
+    7:'../images/codingclub.jpeg'
+
 };
 
 // Handle modal opening
