@@ -171,7 +171,7 @@ const rulesAndRegulations = {
         content: 'Prepare a dish without using fire.',
         rules: [
             'Group of 3-5 members',
-            'Ingredients provided',
+            'Ingredients will not be provided..Participants must bring all requirements',
             'Time limit: 60 minutes',
             'Creativity in presentation counts',
             'Judging based on taste and presentation'
