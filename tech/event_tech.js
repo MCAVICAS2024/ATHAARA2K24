@@ -93,7 +93,7 @@ const rulesAndRegulations = {
         title: 'IDEATHON- Rules and Regulations',
         rules: [
             'Either individual or group participation',
-            'A Group consist of maximum 5 members',
+            'A Group consist of maximum 2 participants',
             'Participant should bring their projects',
             'Maximum duration of presentation will be 15 minutes ',
             'Any kind of unfair means will lead to disqualification'
