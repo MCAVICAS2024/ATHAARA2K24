@@ -195,7 +195,7 @@ const eventImages = {
     2: 'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293831/symposium/treasure_gotauv.jpg',
     3: 'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293799/symposium/face_painting_xnmods.jpg',
     4: 'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293828/symposium/art_k2gsfr.jpg',
-    5: '../images/styleicon.png',
+    5: '../images/styleicon.jpeg',
     6: 'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293834/symposium/mime_ohxwyz.jpg',
     7: '../images/masterpiece.jpeg',
     8: 'https://res.cloudinary.com/dqmnttqru/image/upload/v1725293821/symposium/photography_cqans1.jpg',
