@@ -159,7 +159,7 @@ const rulesAndRegulations = {
         title: 'Quiz - Rules and Regulations',
         content: 'Find words by connecting images.',
         rules: [
-            'Group of 4 members',
+            'Group of 3 members',
             'Each member must contribute',
             'Time limit: 45 minutes',
             'No external help allowed'
