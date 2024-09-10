@@ -127,8 +127,8 @@ const rulesAndRegulations = {
         title: 'CODING CLUB - Rules and Regulations',
         rules: [
             'Individual participation',
-            'Design a logo based on the provided brief',
-            'Judged on creativity and relevance to the theme'
+            'Questions will be provided by the jury members',
+            'Based on the questions, Participants make thier thier own logic programs by any programming language'
         ]
     },
 }; 
