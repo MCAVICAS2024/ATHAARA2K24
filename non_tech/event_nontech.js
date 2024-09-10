@@ -102,7 +102,7 @@ const rulesAndRegulations = {
         rules: [
             'Use only provided art supplies',
             'Craft should be completed within 2 hours',
-            'Group of 3 members allowed',
+            'Group of 2 members allowed',
             'Creativity and presentation are key',
             'Final craft to be submitted for judging'
         ]
