@@ -80,18 +80,18 @@ const rulesAndRegulations = {
     2: {
         title: 'TREASURE HUNT - Rules and Regulations',
         rules: [
-            'Form teams of 4 members',
+            'Maximum of 2 members for a team',
             'No outside help allowed',
             'Use of mobile phones is restricted',
-            'Complete the hunt within 60 minutes',
-            'Winning team will be awarded with a prize'
+            'Complete the hunt within 45 minutes',
+            'Judgment is based on the time taken for finding the treasure'
         ]
     },
     3: {
         title: 'FACE PAINTING - Rules and Regulations',
         rules: [
+            'Theme: Own Topic',
             'Use non-toxic paints only',
-            'Themes are provided on the spot',
             'Time limit is 30 minutes',
             'Judging based on creativity and neatness'
         ]
@@ -100,10 +100,10 @@ const rulesAndRegulations = {
         title: 'CRAFT FROM ART - Rules and Regulations',
         content: 'Create a craft using art supplies.',
         rules: [
-            'Use only provided art supplies',
-            'Craft should be completed within 2 hours',
-            'Group of 2 members allowed',
+            'Maximum 2 members in the team ',
+            'Craft should be completed within 1 hours',
             'Creativity and presentation are key',
+            'Participants must brirng thier required art & craft supplies',
             'Final craft to be submitted for judging'
         ]
     },
@@ -128,7 +128,7 @@ const rulesAndRegulations = {
         content: 'Express yourself through mime.',
         rules: [
             'Per team Max 6 members',
-            'Duration: 10 minutes',
+            'Duration: 5 minutes',
             'No props allowed',
             'Judging based on expression and creativity'
         ]
@@ -139,8 +139,9 @@ const rulesAndRegulations = {
         rules: [
             
             'Materials provided',
-            'Time limit: 90 minutes',
+            'Time limit: 06-10 minutes',
             'Creativity and originality are important',
+            'Every team member must take an active role in the short film,such as Direction,Acting,Scriptwriting,Cinematography,Editing or any other part of the production'
             'Final masterpiece to be presented'
         ]
     },
@@ -149,10 +150,12 @@ const rulesAndRegulations = {
         content: 'Capture the best moments with your camera.',
         rules: [
             'Individual participation',
+            '20-30 mins will be given to take photos',
             'No editing allowed',
             'Submit original photographs',
             'Categories: Nature, Portrait, and Abstract',
-            'Judging based on composition and creativity'
+            'Judging based on composition and creativity',
+            'Only one pic allowed and it should be converted as a PDF file before submission.'
         ]
     },
     9: {
@@ -161,7 +164,7 @@ const rulesAndRegulations = {
         rules: [
             'Group of 3 members',
             'Each member must contribute',
-            'Time limit: 45 minutes',
+            'Time limit: 30 minutes',
             'No external help allowed'
         ]
     },
