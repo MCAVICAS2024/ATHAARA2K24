@@ -141,7 +141,7 @@ const rulesAndRegulations = {
             'Materials provided',
             'Time limit: 06-10 minutes',
             'Creativity and originality are important',
-            'Every team member must take an active role in the short film,such as Direction,Acting,Scriptwriting,Cinematography,Editing or any other part of the production'
+            'Every team member must take an active role in the short film,such as Direction,Acting,Scriptwriting,Cinematography,Editing or any other part of the production',
             'Final masterpiece to be presented'
         ]
     },
