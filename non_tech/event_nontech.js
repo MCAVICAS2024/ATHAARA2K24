@@ -91,7 +91,6 @@ const rulesAndRegulations = {
         title: 'FACE PAINTING - Rules and Regulations',
         rules: [
             'Use non-toxic paints only',
-            'Each participant can paint 2 faces',
             'Themes are provided on the spot',
             'Time limit is 30 minutes',
             'Judging based on creativity and neatness'
@@ -128,7 +127,7 @@ const rulesAndRegulations = {
         title: 'MIME - Rules and Regulations',
         content: 'Express yourself through mime.',
         rules: [
-            'Individual performance only',
+            'Per team Max 6 members',
             'Duration: 10 minutes',
             'No props allowed',
             'Judging based on expression and creativity'
@@ -138,7 +137,7 @@ const rulesAndRegulations = {
         title: 'MINI MASTERPIECE - Rules and Regulations',
         content: 'Create a mini masterpiece.',
         rules: [
-            'Group of 2-3 members',
+            
             'Materials provided',
             'Time limit: 90 minutes',
             'Creativity and originality are important',
